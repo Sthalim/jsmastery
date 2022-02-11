@@ -15,7 +15,8 @@ export default function Home() {
         <div className='row'>
           <div className="col p-0">
             <Carousel/>
-              <p>loremw3et</p>
+            <p>loremw3et</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus suscipit aliquid eligendi, accusantium temporibus placeat.</p>
               <h1 className=''>Now working with the UI and Back end code together to master all the skills i have as a full stack developer!</h1>
               <p className=''>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta excepturi, esse voluptate aut velit libero necessitatibus iusto, obcaecati laborum distinctio eligendi officiis sed qui. Incidunt earum magni perferendis reprehenderit cupiditate laudantium aperiam dolores nisi. Voluptas id dolores modi vitae ea, fugiat fugit ullam iure suscipit officia laudantium doloremque perspiciatis sed?</p>
               <Basic/>
