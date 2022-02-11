@@ -1,0 +1,174 @@
+$pColor: #606063;
+
+.pcolor1{
+  color: $pColor;
+}
+.fCenter{
+  margin: 0 auto;
+}
+
+html,
+body {
+  font-size: 18px;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  margin-bottom: 200px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* MY CUSTOM CSS BRANDS:: */
+
+/* FOR LOGO DESIGN */
+.iconic_logo{
+  height: 60px;
+  width: auto;
+}
+.iconic_logo2{
+  height: 70px;
+  width: auto;
+}
+
+/* FOR TYPO GRAPHIC LOGO */
+.typo_logo {
+  font-size: 30px;
+  width: auto;
+}
+.typo_logo2{
+  font-size: 35px;
+  width: auto;
+}
+
+/* FONT -SIZES::: */
+/* MENU FONT SIZE */
+.menu_font{
+  font-size: 16px;
+}
+.menu_font2{
+  font-size: 20px;
+}
+._btn{
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+._btn2{
+  font-size: 24px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+._link{
+  margin-right: 10px;
+}
+.menu_link2{
+  margin-right: 15px;
+}
+
+.carousel_font{
+  font-size: 52px;
+}
+.carousel_font2{
+  font-size: 60px;
+}
+.carousel_font3{
+  font-size: 120px;
+}
+
+
+/* SECTION START::: */
+.stitle{
+  font-size: 32px;
+}
+.stitlec{
+  color: #222;
+}
+.sprac{
+  color: #444;
+}
+.sprac2{
+  color: #3535;
+}
+.input{
+  color: #777;
+}
+.input2{
+  color: #999;
+}
+.subtitle{
+  font-size: 20px;
+}
+.pra1{
+  font-size: 14px;
+  line-height: 24px;
+}
+.pra2{
+  font-size: 16px;
+  line-height: 26px;
+}
+.pra3{
+  font-size: 20px;
+  line-height: 30px;
+}
+.pra4{
+  font-size: 30px;
+  line-height: 42px;
+}
+.sicon{
+  height: 50px;
+}
+.sicon2{
+  height: 60px;
+}
+/* SPACE SECTION OF THE CONTENT */
+.stosA{
+  margin-bottom: 80px;
+}
+.stosB{
+  margin-bottom: 100px;
+}
+.stosC{
+  margin-bottom: 120px;
+}
+.stosC2{
+  margin-top: 70px;
+}
+.stosC3{
+  margin-top: 35px;
+}
+.stosC4{
+  margin-top: 18px;
+}
+.stosA2{
+  margin-top: 50px;
+}
+.stosA3{
+  margin-top: 25px;
+}
+.stosA4{
+  margin-top: 13px;
+}
+.stosB2{
+  margin-top: 60px;
+}
+.stosB2{
+  margin-top: 30px;
+}
+.stosB3{
+  margin-top: 15px;
+}
+
