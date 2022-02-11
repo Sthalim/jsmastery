@@ -14,14 +14,11 @@ export default function Home() {
       <div className="container-fluid setup2">
         <div className='row'>
           <div className="col p-0">
-            <Carousel/>
-            <p>loremw3et</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus suscipit aliquid eligendi, accusantium temporibus placeat.</p>
-              <h1 className=''>Now working with the UI and Back end code together to master all the skills i have as a full stack developer!</h1>
-              <p className=''>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta excepturi, esse voluptate aut velit libero necessitatibus iusto, obcaecati laborum distinctio eligendi officiis sed qui. Incidunt earum magni perferendis reprehenderit cupiditate laudantium aperiam dolores nisi. Voluptas id dolores modi vitae ea, fugiat fugit ullam iure suscipit officia laudantium doloremque perspiciatis sed?</p>
-              <Basic/>
-            <div>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus nesciunt modi totam molestiae. Ipsum a autem incidunt magni. Magnam numquam perspiciatis velit placeat, nesciunt voluptatum adipisci consequuntur a expedita voluptate!</div>
-            
+            {/* CAROUSEL PARTS.... */}
+            <Carousel />
+            {/* STARTING THE MAIN CONTENT */ }
+            <p>working with real development after the test</p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum ad accusantium modi. Quos sunt nihil voluptatem voluptas qui suscipit illo recusandae, pariatur voluptate tenetur veritatis odit. Ipsa modi commodi inventore facilis iste soluta corporis voluptatibus dolorem quis, accusantium facere ullam architecto maxime sit vero asperiores voluptatem esse tenetur numquam illum!</p>
           </div>
         </div>
       </div>

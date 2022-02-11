@@ -11,7 +11,7 @@ const Carousel = () => {
 				</div>
 				<div className="carousel-inner">
 					<div className="carousel-item active" data-bs-interval="10000">
-					<Image src={img6} width={1700} height={1700} className="d-block w-100" alt="..."/>
+					<Image src={img6} width={700} height={700} className="d-block w-100" alt="..."/>
 					<div className="carousel-caption d-none d-md-block">
 						<h5>First slide label</h5>
 						<p>Some representative placeholder content for the first slide.</p>
